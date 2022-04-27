@@ -1,0 +1,1 @@
+I published this common module on npm and it can be viewed and installed from this [link](https://www.npmjs.com/settings/mutua-ticketing-service/packages)  
